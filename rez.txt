@@ -1,0 +1,27 @@
+Pirma Komanda
+Romas                5.5  21
+Petras               5.2  25
+Jurgis               4.9  19
+Arturas              5.8  23
+Bronius              5.1  22
+Mindaugas            4.8  18
+Antra Komanda
+Jonas                4.9  20
+Martynas             4.9  21
+Kestutis               5  22
+Mykolas              5.2  23
+Karolis              5.1  24
+Arvydas              5.2  25
+Bendra Komanda
+Romas                5.5  21
+Petras               5.2  25
+Jurgis               4.9  19
+Arturas              5.8  23
+Bronius              5.1  22
+Mindaugas            4.8  18
+Jonas                4.9  20
+Martynas             4.9  21
+Kestutis               5  22
+Mykolas              5.2  23
+Karolis              5.1  24
+Arvydas              5.2  25
